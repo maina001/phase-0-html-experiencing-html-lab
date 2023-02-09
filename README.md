@@ -1,10 +1,10 @@
 # Experiencing HTML Lab
 
-## Learning Goals
+## Learning Goalts
 
 - Create an ordered HTML list
 - Create an unordered HTML list
-
+0- 
 ## Introduction
 
 How do we go about writing text for the web? How is that different from the text
